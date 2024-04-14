@@ -6,8 +6,9 @@
 #include "Estadisticas.h"
 #include "cls_Display.h"
 #include <SFML/Audio.hpp>
+#include <SFML/Audio/\Sound.hpp>
 
-
+//le agregue una biblioteca
 class Juego  
 {
    
